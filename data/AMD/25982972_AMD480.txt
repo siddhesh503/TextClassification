@@ -1,0 +1,8 @@
+To define the role of increased fundus autofluorescence (FAF), a surrogate for lipofuscin content, as a risk factor for progression of geographic atrophy (GA).
+Prospective natural history cohort study, the GAIN (Characterization of geographic atrophy progression in patients with age-related macular degeneration).
+setting: Single-center study conducted in Barcelona, Spain.
+After screening of 211 patients, 109 eyes of 82 patients with GA secondary to age-related macular degeneration and a minimum follow-up of 6 months were included.
+Lipofuscin content was classified independently by 2 masked observers according to FAF patterns described previously. Bivariate, stratified, and multivariable analyses were used to explore the associations between GA growth and independent variables. Mediation analysis was used to evaluate the contribution of FAF patterns to GA progression.
+Progression of GA in mm(2)/year as measured with FAF.
+Median follow-up was 18 months (range, 6-42). Median GA growth was 1.61 mm(2)/year. FAF, baseline area of atrophy, and time of follow-up were independently associated with GA progression (P < .004). FAF patterns and baseline area of atrophy were strongly associated (P < .0001), suggesting potential confounding. Mediation analysis suggested that most of the effect of FAF patterns on GA growth was actually caused by baseline area of atrophy.
+FAF patterns, baseline area of atrophy, and time of follow-up were associated with GA progression. However, FAF patterns seem to be a consequence (not a cause) of enlarging atrophy and their effect on GA progression seems mostly driven by baseline area of atrophy.

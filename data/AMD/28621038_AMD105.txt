@@ -1,0 +1,8 @@
+Clinical evidence supports the efficacy of bimonthly aflibercept injection for age-related macular degeneration.
+The study aimed to evaluate aqueous vascular endothelial growth factor and aflibercept concentrations and the efficacy of bimonthly aflibercept in patients with age-related macular degeneration.
+This study is a prospective, interventional case series.
+Enrolled were 35 eyes with exudative age-related macular degeneration from 35 patients.
+Patients received three bimonthly intravitreal aflibercept without loading doses. We collected the aqueous humor just before each injection, measured vascular endothelial growth factor and aflibercept concentrations by enzyme-linked immunosorbent assay and measured best-corrected visual acuity and central retinal subfield thickness before and after the injections.
+Aqueous vascular endothelial growth factor and aflibercept concentrations were measured.
+The vascular endothelial growth factor concentration was 135.4 ± 60.5 pg/mL (mean ± standard deviation, range 60.6-323.4) at baseline and below the lowest detectable limit in all eyes at month 2 and in 32 eyes at month 4 (P < 0.001 [month 2] and P < 0.001 [month 4]). The mean aflibercept concentration was 20.3 ng/mL at month 2 and 28.0 ng/mL at month 4. The mean logarithm of the minimum angle of resolution visual acuity improved from 0.50 ± 0.36 at baseline to 0.36 ± 0.40 at month 6 (P < 0.001). The mean central retinal subfield thickness decreased from 353 ± 100 μm at baseline to 236 ± 45 μm at month 6 (P < 0.001).
+Bimonthly aflibercept injections without loading doses may be considered a treatment option for age-related macular degeneration.

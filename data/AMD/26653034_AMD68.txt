@@ -1,0 +1,4 @@
+To investigate possible associations between VEGFR-2 and IL-8 gene SNPs and 1-year response to intravitreal ranibizumab for exudative age-related macular degeneration.
+Sixty-four eyes underwent a loading phase of three monthly intravitreal injections of ranibizumab 0.5 mg/0.05 ml followed by Pro Re Nata retreatment. VEGFR-2 rs2071559 (-604 A/G) and IL-8 rs4073 (-251 A/T) were analyzed.
+Ranibizumab was significantly more effective as measured by visual acuity in patients harboring the IL-8 rs4073 TT genotype (p = 0.045), whereas patients carrying the VEGFR-2 rs2071559 CC genotype revealed better functional response as measured by mean retinal sensitivity (p = 0.034).
+IL-8 rs4073 and VEGFR-2 rs2071559 genotypes may represent important molecular determinants to modulate final outcomes in neovascular age-related macular degeneration patients.

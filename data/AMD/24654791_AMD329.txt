@@ -1,0 +1,4 @@
+To evaluate pentraxin3 (PTX3) levels in patients with neovascular age-related macular degeneration (N-ARMD) and to investigate its role as a predictive biomarker.
+Thirty individuals with N-ARMD and 30 controls without N-ARMD were studied. Plasma concentrations of C-reactive protein (CRP) and PTX3 were measured in frozen samples using an enzyme-linked immunosorbent assay kit.
+PTX3 concentration was 1341 ± 625 pg/mL (mean ± standard deviation) in N-ARMD patients, which was significantly higher than in control subjects (887 ± 478, p = 0.003). The mean CRP level was also significantly higher in N-ARMD (2121 ± 2300) than in control (748 ± 618, p = 0.004). Pearson's correlation analysis showed a significant positive correlation between PTX3 and CRP (r = 0.407, p = 0.002).
+Our data support the role of chronic inflammation in the development of ARMD. They also show PTX3 may contribute to efforts to understand pathogenesis of N-ARMD.
