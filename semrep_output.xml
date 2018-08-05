@@ -1,0 +1,149 @@
+<SemRepAnnotation>
+ <Document id="D00000000" text="To characterize the natural history and response of age-related macular degeneration-associated peripapillary choroidal neovascularization to anti-vascular endothelial growth factor therapy. This was a retrospective case series of patients with peripapillary choroidal neovascularization secondary to neovascular age-related macular degeneration. All patients underwent complete ophthalmologic examination and retinal imaging including fluorescein angiography and spectral domain optical coherence tomography at each visit. Eyes with subretinal or intraretinal macular fluid were treated with anti-vascular endothelial growth factor monotherapy using a modified as-needed treatment algorithm. Thirty-three eyes of 27 patients were included. The median age was 82 years (range, 62-94), and the median duration of follow-up was 65 months (range, 6-165). Fourteen eyes (58%) without fovea-involving fluid at baseline subsequently developed exudation after a median observation period of 16 months (range, 4-107). Ten of 24 eyes (42%) without initial macular fluid remained dry during the entire follow-up. The median number of injections required until complete fluid reabsorption was 3 (range, 1-21) during the first treatment cycle. The median time to fluid recurrence was 6 months (range, 3-74). Peripapillary choroidal neovascularization secondary to wet age-related macular degeneration has a slow progression, may not require treatment for a prolonged period, and responds rapidly to anti-vascular endothelial growth factor treatment with good visual outcomes." >
+ <Utterance id="D00000000.tx.1" section="tx" number="1" text="To characterize the natural history and response of age-related macular degeneration-associated peripapillary choroidal neovascularization to anti-vascular endothelial growth factor therapy.">
+  <Entity id="D00000000.E1" cui="C0175860" name="Natural History" semtypes="ocdi" text="natural history" score="1000" begin="20" end="35" />
+  <Entity id="D00000000.E2" cui="C0242383" name="Age related macular degeneration" semtypes="dsyn" text="age-related macular degeneration" score="805" begin="52" end="84" />
+  <Entity id="D00000000.E3" cui="C0442163" name="Peripapillary" semtypes="spco" text="peripapillary" score="805" begin="96" end="109" />
+  <Entity id="D00000000.E4" cui="C0600518" name="Choroidal Neovascularization" semtypes="patf" text="choroidal neovascularization" score="805" begin="110" end="138" />
+  <Entity id="D00000000.E5" cui="C0005847" name="Blood Vessel" semtypes="bpoc" text="vascular" score="823" begin="147" end="155" />
+  <Entity id="D00000000.E6" cui="C0079280" name="Endothelial Growth Factors" semtypes="aapp,bacs" text="endothelial growth factor" score="823" begin="156" end="181" />
+  <Entity id="D00000000.E7" cui="C0087111" name="Therapeutic procedure" semtypes="topp" text="therapy" score="823" begin="182" end="189" />
+  <Predication id="D00000000.P1">
+   <Subject maxDist="0" dist="0" entityID="D00000000.E7" relSemType="topp" />
+   <Predicate type="USES" indicatorType="MOD_HEAD" begin="156" end="189" />
+   <Object maxDist="0" dist="0" entityID="D00000000.E6" relSemType="aapp" />
+  </Predication>
+ </Utterance>
+ <Utterance id="D00000000.tx.2" section="tx" number="2" text="This was a retrospective case series of patients with peripapillary choroidal neovascularization secondary to neovascular age-related macular degeneration.">
+  <Entity id="D00000000.E8" cui="C1514923" name="Retrospective" semtypes="qlco" text="retrospective" score="901" begin="202" end="215" />
+  <Entity id="D00000000.E9" cui="C0150093" name="case series" semtypes="resa" text="case series" score="901" begin="216" end="227" />
+  <Entity id="D00000000.E10" cui="C0030705" name="Patients" semtypes="podg" text="patients" score="1000" begin="231" end="239" />
+  <Entity id="D00000000.E11" cui="C0442163" name="Peripapillary" semtypes="spco" text="peripapillary" score="901" begin="245" end="258" />
+  <Entity id="D00000000.E12" cui="C0600518" name="Choroidal Neovascularization" semtypes="patf" text="choroidal neovascularization" score="901" begin="259" end="287" />
+  <Entity id="D00000000.E13" cui="C0205436" name="second (number)" semtypes="qnco" text="secondary" score="1000" begin="288" end="297" />
+  <Entity id="D00000000.E14" cui="C0271084" name="Exudative age-related macular degeneration" semtypes="dsyn" text="neovascular age-related macular degeneration" score="1000" begin="301" end="345" />
+  <Predication id="D00000000.P2">
+   <Subject maxDist="3" dist="1" entityID="D00000000.E12" relSemType="patf" />
+   <Predicate type="PROCESS_OF" indicatorType="PREP" begin="240" end="244" />
+   <Object maxDist="2" dist="1" entityID="D00000000.E10" relSemType="humn" />
+  </Predication>
+ </Utterance>
+ <Utterance id="D00000000.tx.3" section="tx" number="3" text="All patients underwent complete ophthalmologic examination and retinal imaging including fluorescein angiography and spectral domain optical coherence tomography at each visit.">
+  <Entity id="D00000000.E15" semtypes="gngm" entrezID="613" entrezName="BCR" text="All" score="1000" begin="347" end="350" />
+  <Entity id="D00000000.E16" cui="C0030705" name="Patients" semtypes="podg" text="patients" score="1000" begin="351" end="359" />
+  <Entity id="D00000000.E17" cui="C0205197" name="Complete" semtypes="qlco" text="complete" score="901" begin="370" end="378" />
+  <Entity id="D00000000.E18" cui="C0200149" name="Ophthalmic examination and evaluation" semtypes="hlca" text="ophthalmologic examination" score="901" begin="379" end="405" />
+  <Entity id="D00000000.E19" cui="C0035298" name="Retina" semtypes="bpoc" text="retinal" score="1000" begin="410" end="417" />
+  <Entity id="D00000000.E20" cui="C0016313" name="Fluorescein Angiography" semtypes="diap" text="fluorescein angiography" score="1000" begin="436" end="459" />
+  <Entity id="D00000000.E21" cui="C1883073" name="Electromagnetic Spectrum" semtypes="qnco" text="spectral" score="875" begin="464" end="472" />
+  <Entity id="D00000000.E22" cui="C1883221" name="Superkingdom (taxonomic category)" semtypes="cnce" text="domain" score="875" begin="473" end="479" />
+  <Entity id="D00000000.E23" cui="C0920367" name="Tomography, Optical Coherence" semtypes="diap" text="optical coherence tomography" score="875" begin="480" end="508" />
+  <Entity id="D00000000.E24" cui="C0545082" name="Visit" semtypes="bhvr" text="visit" score="1000" begin="517" end="522" />
+  <Predication id="D00000000.P3">
+   <Subject maxDist="6" dist="1" entityID="D00000000.E18" relSemType="hlca" />
+   <Predicate type="TREATS" indicatorType="VERB" begin="360" end="369" />
+   <Object maxDist="1" dist="1" entityID="D00000000.E16" relSemType="humn" />
+  </Predication>
+ </Utterance>
+ <Utterance id="D00000000.tx.4" section="tx" number="4" text="Eyes with subretinal or intraretinal macular fluid were treated with anti-vascular endothelial growth factor monotherapy using a modified as-needed treatment algorithm.">
+  <Entity id="D00000000.E25" cui="C0015392" name="Eye" semtypes="bpoc" text="Eyes" score="1000" begin="524" end="528" />
+  <Entity id="D00000000.E26" cui="C0332574" name="macular" semtypes="spco" text="macular" score="790" begin="561" end="568" />
+  <Entity id="D00000000.E27" cui="C0005889" name="Body Fluids" semtypes="bdsu" text="fluid" score="790" begin="569" end="574" />
+  <Entity id="D00000000.E28" cui="C1801960" name="Vascular" semtypes="qlco" text="vascular" score="651" begin="598" end="606" />
+  <Entity id="D00000000.E29" cui="C0079280" name="Endothelial Growth Factors" semtypes="aapp,bacs" text="endothelial growth factor" score="651" begin="607" end="632" />
+  <Entity id="D00000000.E30" cui="C0392747" name="Changing" semtypes="ftcn" text="modified" score="786" begin="653" end="661" />
+  <Entity id="D00000000.E31" cui="C0815189" name="treatment need" semtypes="fndg" text="needed treatment" score="786" begin="665" end="681" />
+  <Entity id="D00000000.E32" cui="C0002045" name="algorithm" semtypes="inpr" text="algorithm" score="786" begin="682" end="691" />
+ </Utterance>
+ <Utterance id="D00000000.tx.5" section="tx" number="5" text="Thirty-three eyes of 27 patients were included.">
+  <Entity id="D00000000.E33" cui="C3816446" name="Thirty" semtypes="qnco" text="Thirty-" score="851" begin="693" end="700" />
+  <Entity id="D00000000.E34" cui="C0205449" name="Three" semtypes="qnco" text="three" score="851" begin="700" end="705" />
+  <Entity id="D00000000.E35" cui="C0015392" name="Eye" semtypes="bpoc" text="eyes" score="851" begin="706" end="710" />
+  <Entity id="D00000000.E36" cui="C0030705" name="Patients" semtypes="podg" text="patients" score="861" begin="717" end="725" />
+  <Predication id="D00000000.P4">
+   <Subject maxDist="1" dist="1" entityID="D00000000.E35" relSemType="bpoc" />
+   <Predicate type="PART_OF" indicatorType="PREP" begin="711" end="713" />
+   <Object maxDist="1" dist="1" entityID="D00000000.E36" relSemType="humn" />
+  </Predication>
+ </Utterance>
+ <Utterance id="D00000000.tx.6" section="tx" number="6" text="The median age was 82 years (range, 62-94), and the median duration of follow-up was 65 months (range, 6-165).">
+  <Entity id="D00000000.E37" cui="C0026062" name="Middle Age" semtypes="tmco" text="median age" score="1000" begin="745" end="755" />
+  <Entity id="D00000000.E38" cui="C0439234" name="year" semtypes="tmco" text="years" score="861" begin="763" end="768" />
+  <Entity id="D00000000.E39" cui="C1514721" name="Range" semtypes="qnco" text="range" score="1000" begin="770" end="775" />
+  <Entity id="D00000000.E40" cui="C0549183" name="Midline (qualifier value)" semtypes="spco" text="median" score="888" begin="793" end="799" />
+  <Entity id="D00000000.E41" cui="C2926735" name="Duration" semtypes="phsu" text="duration" score="888" begin="800" end="808" />
+  <Entity id="D00000000.E42" cui="C1522577" name="follow-up" semtypes="hlca" text="follow-up" score="1000" begin="812" end="821" />
+  <Entity id="D00000000.E43" cui="C0439231" name="month" semtypes="tmco" text="months" score="888" begin="829" end="835" />
+  <Entity id="D00000000.E44" cui="C1514721" name="Range" semtypes="qnco" text="range" score="1000" begin="837" end="842" />
+ </Utterance>
+ <Utterance id="D00000000.tx.7" section="tx" number="7" text="Fourteen eyes (58%) without fovea-involving fluid at baseline subsequently developed exudation after a median observation period of 16 months (range, 4-107).">
+  <Entity id="D00000000.E45" cui="C3715152" name="Fourteen" semtypes="qnco" text="Fourteen" score="888" begin="852" end="860" />
+  <Entity id="D00000000.E46" cui="C0015392" name="Eye" semtypes="bpoc" text="eyes" score="888" begin="861" end="865" />
+  <Entity id="D00000000.E47" cui="C0005889" name="Body Fluids" semtypes="bdsu" text="fluid" score="1000" begin="896" end="901" />
+  <Entity id="D00000000.E48" cui="C1442488" name="Baseline" semtypes="qnco" text="baseline" score="791" begin="905" end="913" />
+  <Entity id="D00000000.E49" cui="C0311437" name="Exudation" semtypes="ortf" text="exudation" score="791" begin="937" end="946" />
+  <Entity id="D00000000.E50" cui="C0549183" name="Midline (qualifier value)" semtypes="spco" text="median" score="851" begin="955" end="961" />
+  <Entity id="D00000000.E51" cui="C1964257" name="Observation - diagnostic procedure" semtypes="diap" text="observation" score="851" begin="962" end="973" />
+  <Entity id="D00000000.E52" cui="C0439531" name="per period (qualifier value)" semtypes="tmco" text="period" score="851" begin="974" end="980" />
+  <Entity id="D00000000.E53" cui="C0439231" name="month" semtypes="tmco" text="months" score="861" begin="987" end="993" />
+  <Entity id="D00000000.E54" cui="C1514721" name="Range" semtypes="qnco" text="range" score="1000" begin="995" end="1000" />
+ </Utterance>
+ <Utterance id="D00000000.tx.8" section="tx" number="8" text="Ten of 24 eyes (42%) without initial macular fluid remained dry during the entire follow-up.">
+  <Entity id="D00000000.E55" cui="C0014518" name="Toxic Epidermal Necrolysis" semtypes="dsyn" text="Ten" score="1000" begin="1010" end="1013" />
+  <Entity id="D00000000.E56" cui="C0015392" name="Eye" semtypes="bpoc" text="eyes" score="861" begin="1020" end="1024" />
+  <Entity id="D00000000.E57" cui="C1279901" name="Firstly" semtypes="qlco" text="initial" score="851" begin="1039" end="1046" />
+  <Entity id="D00000000.E58" cui="C0332574" name="macular" semtypes="spco" text="macular" score="851" begin="1047" end="1054" />
+  <Entity id="D00000000.E59" cui="C0005889" name="Body Fluids" semtypes="bdsu" text="fluid" score="851" begin="1055" end="1060" />
+  <Entity id="D00000000.E60" cui="C0205222" name="Dry" semtypes="qlco" text="dry" score="1000" begin="1070" end="1073" />
+  <Entity id="D00000000.E61" cui="C0439751" name="Entire" semtypes="qnco" text="entire" score="901" begin="1085" end="1091" />
+  <Entity id="D00000000.E62" cui="C1522577" name="follow-up" semtypes="hlca" text="follow-up" score="901" begin="1092" end="1101" />
+  <Predication id="D00000000.P5">
+   <Subject maxDist="4" dist="1" entityID="D00000000.E56" relSemType="bpoc" />
+   <Predicate type="LOCATION_OF" indicatorType="PREP" begin="1014" end="1016" />
+   <Object maxDist="1" dist="1" entityID="D00000000.E55" relSemType="dsyn" />
+  </Predication>
+ </Utterance>
+ <Utterance id="D00000000.tx.9" section="tx" number="9" text="The median number of injections required until complete fluid reabsorption was 3 (range, 1-21) during the first treatment cycle.">
+  <Entity id="D00000000.E63" cui="C0549183" name="Midline (qualifier value)" semtypes="spco" text="median" score="888" begin="1107" end="1113" />
+  <Entity id="D00000000.E64" cui="C0237753" name="Numbers" semtypes="qnco" text="number" score="888" begin="1114" end="1120" />
+  <Entity id="D00000000.E65" cui="C1828121" name="Injection Route of Drug Administration" semtypes="ftcn" text="injections" score="1000" begin="1124" end="1134" />
+  <Entity id="D00000000.E66" cui="C0205197" name="Complete" semtypes="qlco" text="complete" score="623" begin="1150" end="1158" />
+  <Entity id="D00000000.E67" cui="C0005889" name="Body Fluids" semtypes="bdsu" text="fluid" score="623" begin="1159" end="1164" />
+  <Entity id="D00000000.E68" cui="C1514721" name="Range" semtypes="qnco" text="range" score="1000" begin="1185" end="1190" />
+  <Entity id="D00000000.E69" cui="C3816745" name="1+" semtypes="fndg" text="1-21" score="861" begin="1192" end="1196" />
+  <Entity id="D00000000.E70" cui="C1279901" name="Firstly" semtypes="qlco" text="first" score="623" begin="1209" end="1214" />
+  <Entity id="D00000000.E71" cui="C0001554" name="Administration occupational activities" semtypes="ocac" text="treatment" score="623" begin="1215" end="1224" />
+ </Utterance>
+ <Utterance id="D00000000.tx.10" section="tx" number="10" text="The median time to fluid recurrence was 6 months (range, 3-74).">
+  <Entity id="D00000000.E72" cui="C0549183" name="Midline (qualifier value)" semtypes="spco" text="median" score="888" begin="1236" end="1242" />
+  <Entity id="D00000000.E73" cui="C0040223" name="Time" semtypes="tmco" text="time" score="888" begin="1243" end="1247" />
+  <Entity id="D00000000.E74" cui="C0005889" name="Body Fluids" semtypes="bdsu" text="fluid" score="888" begin="1251" end="1256" />
+  <Entity id="D00000000.E75" cui="C1458156" name="Recurrent Malignant Neoplasm" semtypes="neop" text="recurrence" score="888" begin="1257" end="1267" />
+  <Entity id="D00000000.E76" cui="C0439231" name="month" semtypes="tmco" text="months" score="861" begin="1274" end="1280" />
+  <Entity id="D00000000.E77" cui="C1514721" name="Range" semtypes="qnco" text="range" score="1000" begin="1282" end="1287" />
+ </Utterance>
+ <Utterance id="D00000000.tx.11" section="tx" number="11" text="Peripapillary choroidal neovascularization secondary to wet age-related macular degeneration has a slow progression, may not require treatment for a prolonged period, and responds rapidly to anti-vascular endothelial growth factor treatment with good visual outcomes.">
+  <Entity id="D00000000.E78" cui="C0442163" name="Peripapillary" semtypes="spco" text="Peripapillary" score="853" begin="1296" end="1309" />
+  <Entity id="D00000000.E79" cui="C0600518" name="Choroidal Neovascularization" semtypes="patf" text="choroidal neovascularization" score="853" begin="1310" end="1338" />
+  <Entity id="D00000000.E80" cui="C0175668" name="Secondary to" semtypes="tmco" text="secondary to" score="853" begin="1339" end="1351" />
+  <Entity id="D00000000.E81" cui="C0271084" name="Exudative age-related macular degeneration" semtypes="dsyn" text="wet age-related macular degeneration" score="853" begin="1352" end="1388" />
+  <Entity id="D00000000.E82" cui="C1836301" name="Slow progression" semtypes="fndg" text="slow progression" score="1000" begin="1395" end="1411" />
+  <Entity id="D00000000.E83" cui="C1518422" name="Negation" semtypes="ftcn" text="not" score="1000" begin="1417" end="1420" />
+  <Entity id="D00000000.E84" cui="C0087111" name="Therapeutic procedure" semtypes="topp" text="treatment" score="1000" begin="1429" end="1438" />
+  <Entity id="D00000000.E85" cui="C0439590" name="Prolonged" semtypes="tmco" text="prolonged" score="888" begin="1445" end="1454" />
+  <Entity id="D00000000.E86" cui="C0439531" name="per period (qualifier value)" semtypes="tmco" text="period" score="888" begin="1455" end="1461" />
+  <Entity id="D00000000.E87" cui="C0439831" name="Rapid" semtypes="qlco" text="rapidly" score="1000" begin="1476" end="1483" />
+  <Entity id="D00000000.E88" cui="C1801960" name="Vascular" semtypes="qlco" text="vascular" score="823" begin="1492" end="1500" />
+  <Entity id="D00000000.E89" cui="C0079280" name="Endothelial Growth Factors" semtypes="aapp,bacs" text="endothelial growth factor" score="823" begin="1501" end="1526" />
+  <Entity id="D00000000.E90" cui="C0001554" name="Administration occupational activities" semtypes="ocac" text="treatment" score="823" begin="1527" end="1536" />
+  <Entity id="D00000000.E91" cui="C0205170" name="Good" semtypes="qlco" text="good" score="840" begin="1542" end="1546" />
+  <Entity id="D00000000.E92" cui="C0234621" name="Visual" semtypes="ftcn" text="visual" score="840" begin="1547" end="1553" />
+  <Entity id="D00000000.E93" cui="C1274040" name="Result" semtypes="ftcn" text="outcomes" score="840" begin="1554" end="1562" />
+  <Predication id="D00000000.P6">
+   <Subject maxDist="0" dist="0" entityID="D00000000.E92" relSemType="ftcn" />
+   <Predicate type="ISA" indicatorType="MOD_HEAD" begin="1547" end="1562" />
+   <Object maxDist="0" dist="0" entityID="D00000000.E93" relSemType="ftcn" />
+  </Predication>
+ </Utterance>
+</Document>
+</SemRepAnnotation>
